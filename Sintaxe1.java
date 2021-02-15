@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Guilherme
+ * @author Pichau
  */
 import java.util.Scanner;
 public class Sintaxe1{
